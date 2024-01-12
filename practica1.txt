@@ -1,0 +1,27 @@
+
+
+
+
+
+            public class Main {
+                public static void main(String[] args) {
+                    System.out.printf("\tUniversidad Polit‚cnica de Tlaxcala.");
+                    System.out.printf("\t\nTecnolog¡as de la informaci¢n");
+                    System.out.printf("\t\nPractica 1.");
+                    System.out.printf("\nObjetivos:");
+                    System.out.printf("\n1-Creaci¢n de Clases: Crear una clase simple con al menos tres atributos.");
+                    System.out.printf("\n2-M‚todos B sicos: Implementar al menos dos m‚todos en la clase que realicen acciones relacionadas con los atributos.");
+                    System.out.printf("\n3-Encapsulamiento: Aplicar encapsulamiento a los atributos de la clase utilizando modificadores de acceso.");
+                    System.out.printf("\n4-Instancia de Objetos: Crear al menos dos instancias de la clase en el m‚todo principal.:");
+                    System.out.printf("\n5-Herencia Simple: Crear una clase hija que herede de la clase principal y agregar un nuevo atributo.");
+                    System.out.printf("\t\nProfesor: Sa£l Olaf Loaiza Mel‚ndez.");
+                    System.out.printf("\nIntegrantes:");
+                    System.out.printf("\nRodolfo Hern ndez M‚ndez, Matricula:2231123408");
+                    System.out.printf("\nRaul Gonz lez S nchez, Matricula:2231123406 ");
+                    System.out.printf("\nUriel Perucho Vargas, Matricula:2231123419");
+                    System.out.printf("\nLupita Rojas Saucedo, Matricula:2231123422 ");
+                    System.out.printf("\n\tHola tilin");
+                }
+            }
+        }
+    }
